@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "taks-68ed2": {
+      "hosting": {
+        "taks": [
+          "taks-68ed2"
+        ]
+      }
+    }
+  }
+}
